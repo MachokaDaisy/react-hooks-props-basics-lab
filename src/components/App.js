@@ -11,8 +11,8 @@ function App() {
   return (
     <div>
       <NavBar />
-      <Home />
-      <About />
+      <Home name="Liza" city="New York" />
+      <About bio="I made this!" img="https://i.imgur.com/mV8PQxj.gif" />
     </div>
   );
 }

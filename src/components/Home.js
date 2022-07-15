@@ -1,5 +1,13 @@
 import React from "react";
 
+// function User(props) {
+//   return (
+//     <div id="user">
+
+//     </div>
+//   )
+// }
+
 function Home(props) {
   return (
     <div id="home">
